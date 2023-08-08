@@ -1,7 +1,5 @@
 # OverView
-Performed a pizza sales Report challenge from Maven Analytics.
-
-I'm supposed to be a business intelligence consultant employed by Pizza Company, a New Jersey pizza shop with a Greek-inspired. The restaurant hired me to assist in using data to boost operations.
+Performed a pizza sales Report challenge from Maven Analytics.I'm supposed to be a business intelligence consultant employed by Pizza Company, a New Jersey pizza shop with a Greek-inspired. The restaurant hired me to assist in using data to boost operations.
 
 ◼ Here are my insights 📊:
 1) $817.9K Total Revenue, 49.6K Total Quantity, 21.4K Total Orders, $138.5 Avg. Daily Pizza Sold, 2.3 Avg. Pizza Per Order.
